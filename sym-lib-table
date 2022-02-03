@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name max)(type Legacy)(uri /Users/ccostes/dev/usbAudio/ul_max9814etd-t/KiCAD/2022-01-22_17-40-23/2022-01-22_17-40-23.lib)(options "")(descr ""))
+  (lib (name pcm2906)(type Legacy)(uri /Users/ccostes/dev/usbAudio/ul_PCM2906CDBR/KiCAD/2022-01-23_04-36-32/2022-01-23_04-36-32.lib)(options "")(descr ""))
+  (lib (name 2022-01-24_00-24-36)(type Legacy)(uri /Users/ccostes/dev/usbAudio/ul_10118194-0001LF/KiCAD/2022-01-24_00-24-36/2022-01-24_00-24-36.lib)(options "")(descr ""))
+  (lib (name 2022-01-24_01-03-20)(type Legacy)(uri /Users/ccostes/dev/usbAudio/ul_54-00176/KiCAD/2022-01-24_01-03-20/2022-01-24_01-03-20.lib)(options "")(descr ""))
+  (lib (name 2022-01-29_20-18-42)(type Legacy)(uri /Users/ccostes/dev/usbAudio/ul_NRVTSM260ET3G/KiCAD/2022-01-29_20-18-42/2022-01-29_20-18-42.lib)(options "")(descr ""))
+)

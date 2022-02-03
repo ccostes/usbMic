@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name max9814)(type KiCad)(uri /Users/ccostes/dev/usbAudio/ul_max9814etd-t/KiCAD/2022-01-22_17-40-23/footprints.pretty)(options "")(descr ""))
+  (lib (name pcm2906)(type KiCad)(uri /Users/ccostes/dev/usbAudio/ul_PCM2906CDBR/KiCAD/2022-01-23_04-36-32/footprints.pretty)(options "")(descr ""))
+  (lib (name usb)(type KiCad)(uri /Users/ccostes/dev/usbAudio/ul_10118194-0001LF/KiCAD/2022-01-24_00-24-36/footprints.pretty)(options "")(descr ""))
+  (lib (name jack)(type KiCad)(uri /Users/ccostes/dev/usbAudio/ul_54-00176/KiCAD/2022-01-24_01-03-20/footprints.pretty)(options "")(descr ""))
+  (lib (name diode)(type KiCad)(uri /Users/ccostes/dev/usbAudio/ul_NRVTSM260ET3G/KiCAD/2022-01-29_20-18-42/footprints.pretty)(options "")(descr ""))
+)
