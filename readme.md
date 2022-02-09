@@ -2,7 +2,7 @@
 
 This is a DIY USB microphone interface designed for an electret condenser microphone. It has up to 60dB of amplification and 16-bit ADC. This is my first PCB design and this page is intended to document the design itself, as well as my learnings along the way.
 
-![render](images/render3.png)
+![render](images/render_crop.png)
 
 The project was created in [KiCad 6](https://www.kicad.org/)
 
@@ -44,7 +44,7 @@ The first thing to point out is that a lot of the wires in the schematic end wit
 * **AMPOUT**: amplifier output
 * **D+**, **D-**: USB signal lines
 
-![full_schematic](images/schematic_full.png)
+![full_schematic](schematic.png)
 
 Starting with the simple stuff, in the bottom-right Connectors section you see the USB and Microphone connectors, along with an expansion header that brings out power, ground, and the right audio channel.
 
@@ -70,8 +70,12 @@ The MAX datasheet specifies that its output has a center-voltage of 1.23V which 
 I [asked](https://www.reddit.com/r/AskElectronics/comments/sm6ebf/audio_adc_input_bias/) on reddit and a couple people pointed out that the block diagram of the Analog frontend shows that the input is internally biased, so needed a 0V center voltage and all I needed was the coupling capacitor as the schematic showed. I still think the Analog Input section should have specified 0V instead of Vcc/2 center voltage.
 
 ## PCB Layout
-![pcb layout](images/pcb_layout.png)
-To inspect the PCB layout I think you really need to download the project and use KiCad; there's a lot going on.
+Full layout
+![pcb layout](images/layout.png)
+Front Copper
+![front copper](images/cu_front.png)
+Back Copper
+![back copper](images/cu_back.png)
 
 This layout went though a number of revisions and I learned a lot along the way. Making my own part footprints turned out to be really important. Some parts didn't have footprints available online, and even those that do should be inspected to make sure they actually match the datasheet.
 
