@@ -14,3 +14,11 @@ USB_B_Micro,J1,10118194-0001LF,C132563
 100k,R7,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25803
 12MHz,Y1,Crystal_SMD_5032-4Pin_5.0x3.2mm,C390782
 2.2k,R1,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C4190
+PCM2906CDBR,U1,PCM2906CDBR,
+MAX9814,U2,max9814etd&plus_t,
+54-00176,J3,54-00177,
+Jumper_NO_Small,JP1,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,
+Conn_01x03,J2,TO-92Flat,
+Jumper_NO_Small,JP2,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,
+TCR2EF36,U3,SOT-23-5,
+MIC5365-3.0YD5-TR,U4,SOT-23-5,
