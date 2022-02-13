@@ -2177,7 +2177,7 @@
     (property "Value" "12MHz" (id 1) (at 155.9052 110.363 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Crystal:Crystal_HC49-U_Vertical" (id 2) (at 153.67 109.22 0)
+    (property "Footprint" "Crystal:Crystal_SMD_5032-4Pin_5.0x3.2mm" (id 2) (at 153.67 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 153.67 109.22 0)
@@ -2489,7 +2489,7 @@
   (symbol (lib_id "power:VCC") (at 96.52 27.94 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1728e7e2-a540-4cf5-beb7-d102f3de991e)
-    (property "Reference" "#PWR?" (id 0) (at 96.52 31.75 0)
+    (property "Reference" "#PWR0104" (id 0) (at 96.52 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 96.52 24.3355 0))
@@ -2505,7 +2505,7 @@
   (symbol (lib_id "power:VDD") (at 59.055 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 181cf366-3852-4dd2-9aec-7747b23a8ca6)
-    (property "Reference" "#PWR?" (id 0) (at 59.055 113.03 0)
+    (property "Reference" "#PWR0108" (id 0) (at 59.055 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (id 1) (at 59.055 105.6155 0))
@@ -2557,7 +2557,7 @@
   (symbol (lib_id "power:VBUS") (at 46.355 96.52 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2dff4ca6-e901-4498-90c4-7cae7e74345d)
-    (property "Reference" "#PWR?" (id 0) (at 46.355 100.33 0)
+    (property "Reference" "#PWR0106" (id 0) (at 46.355 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VBUS" (id 1) (at 46.355 92.9155 0))
@@ -2573,7 +2573,7 @@
   (symbol (lib_id "power:VBUS") (at 194.31 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 39225e57-3999-432c-b84c-821f28430b73)
-    (property "Reference" "#PWR?" (id 0) (at 194.31 97.79 0)
+    (property "Reference" "#PWR0109" (id 0) (at 194.31 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VBUS" (id 1) (at 194.31 90.3755 0))
@@ -2589,7 +2589,7 @@
   (symbol (lib_id "power:VCC") (at 45.72 114.3 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 3ee9974c-02ab-4004-aa04-8bf33ee52a5e)
-    (property "Reference" "#PWR?" (id 0) (at 45.72 118.11 0)
+    (property "Reference" "#PWR0107" (id 0) (at 45.72 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 41.275 114.935 0)
@@ -2607,7 +2607,7 @@
   (symbol (lib_id "power:VCC") (at 198.12 110.49 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 534b96e3-0f18-42e8-8ace-658ab4a24da5)
-    (property "Reference" "#PWR?" (id 0) (at 198.12 114.3 0)
+    (property "Reference" "#PWR0110" (id 0) (at 198.12 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 193.675 111.125 0)
@@ -2713,7 +2713,7 @@
   (symbol (lib_id "power:VCC") (at 142.24 57.785 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9bda69d1-98ce-44e9-a390-3559add57b5d)
-    (property "Reference" "#PWR?" (id 0) (at 142.24 61.595 0)
+    (property "Reference" "#PWR0102" (id 0) (at 142.24 61.595 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 142.24 54.1805 0))
@@ -2729,7 +2729,7 @@
   (symbol (lib_id "power:VCC") (at 46.355 61.595 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 9e31d665-1c9d-4785-954e-8a8768e4f03b)
-    (property "Reference" "#PWR?" (id 0) (at 46.355 65.405 0)
+    (property "Reference" "#PWR0105" (id 0) (at 46.355 65.405 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 41.91 62.23 0)
@@ -2747,7 +2747,7 @@
   (symbol (lib_id "power:VDD") (at 151.765 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bd43ae5c-e7d5-448d-8b65-89afe5436a6f)
-    (property "Reference" "#PWR?" (id 0) (at 151.765 97.79 0)
+    (property "Reference" "#PWR0111" (id 0) (at 151.765 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (id 1) (at 151.765 90.3755 0))
@@ -2763,7 +2763,7 @@
   (symbol (lib_id "power:VCC") (at 189.23 34.925 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c5b1cfac-1d9a-444e-bca2-2f9eaff7e5f3)
-    (property "Reference" "#PWR?" (id 0) (at 189.23 38.735 0)
+    (property "Reference" "#PWR0101" (id 0) (at 189.23 38.735 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 189.23 31.3205 0))
@@ -2814,7 +2814,7 @@
   (symbol (lib_id "power:VBUS") (at 142.24 34.925 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d017562e-a40c-4f70-9f0a-b4ef26701ced)
-    (property "Reference" "#PWR?" (id 0) (at 142.24 38.735 0)
+    (property "Reference" "#PWR0103" (id 0) (at 142.24 38.735 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VBUS" (id 1) (at 142.24 31.3205 0))
@@ -2868,7 +2868,7 @@
     (in_bom yes) (on_board yes)
     (uuid daae3521-ca2d-418b-bea2-5f079e2339a6)
     (property "Reference" "U4" (id 0) (at 170.561 53.975 0))
-    (property "Value" "MIC5365-3.3YD5" (id 1) (at 170.815 51.943 0))
+    (property "Value" "MIC5365-3.0YD5-TR" (id 1) (at 170.815 51.943 0))
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23-5" (id 2) (at 170.815 51.435 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2969,38 +2969,38 @@
     (path "/00000000-0000-0000-0000-000061f73e9b"
       (reference "#PWR016") (unit 1) (value "GND") (footprint "")
     )
-    (path "/1728e7e2-a540-4cf5-beb7-d102f3de991e"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/181cf366-3852-4dd2-9aec-7747b23a8ca6"
-      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
-    )
-    (path "/2dff4ca6-e901-4498-90c4-7cae7e74345d"
-      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
-    )
-    (path "/39225e57-3999-432c-b84c-821f28430b73"
-      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
-    )
-    (path "/3ee9974c-02ab-4004-aa04-8bf33ee52a5e"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/534b96e3-0f18-42e8-8ace-658ab4a24da5"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    (path "/c5b1cfac-1d9a-444e-bca2-2f9eaff7e5f3"
+      (reference "#PWR0101") (unit 1) (value "VCC") (footprint "")
     )
     (path "/9bda69d1-98ce-44e9-a390-3559add57b5d"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/9e31d665-1c9d-4785-954e-8a8768e4f03b"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/bd43ae5c-e7d5-448d-8b65-89afe5436a6f"
-      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
-    )
-    (path "/c5b1cfac-1d9a-444e-bca2-2f9eaff7e5f3"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+      (reference "#PWR0102") (unit 1) (value "VCC") (footprint "")
     )
     (path "/d017562e-a40c-4f70-9f0a-b4ef26701ced"
-      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+      (reference "#PWR0103") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/1728e7e2-a540-4cf5-beb7-d102f3de991e"
+      (reference "#PWR0104") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9e31d665-1c9d-4785-954e-8a8768e4f03b"
+      (reference "#PWR0105") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/2dff4ca6-e901-4498-90c4-7cae7e74345d"
+      (reference "#PWR0106") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/3ee9974c-02ab-4004-aa04-8bf33ee52a5e"
+      (reference "#PWR0107") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/181cf366-3852-4dd2-9aec-7747b23a8ca6"
+      (reference "#PWR0108") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/39225e57-3999-432c-b84c-821f28430b73"
+      (reference "#PWR0109") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/534b96e3-0f18-42e8-8ace-658ab4a24da5"
+      (reference "#PWR0110") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/bd43ae5c-e7d5-448d-8b65-89afe5436a6f"
+      (reference "#PWR0111") (unit 1) (value "VDD") (footprint "")
     )
     (path "/83fa3abc-7420-4f33-91f3-33a175d205e1"
       (reference "C1") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
@@ -3102,10 +3102,10 @@
       (reference "U3") (unit 1) (value "TCR2EF36") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
     (path "/daae3521-ca2d-418b-bea2-5f079e2339a6"
-      (reference "U4") (unit 1) (value "MIC5365-3.3YD5") (footprint "Package_TO_SOT_SMD:SOT-23-5")
+      (reference "U4") (unit 1) (value "MIC5365-3.0YD5-TR") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
     (path "/00000000-0000-0000-0000-000061efb5c7"
-      (reference "Y1") (unit 1) (value "12MHz") (footprint "Crystal:Crystal_HC49-U_Vertical")
+      (reference "Y1") (unit 1) (value "12MHz") (footprint "Crystal:Crystal_SMD_5032-4Pin_5.0x3.2mm")
     )
   )
 )

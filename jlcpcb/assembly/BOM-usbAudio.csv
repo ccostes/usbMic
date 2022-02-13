@@ -1,0 +1,16 @@
+Comment,Designator,Footprint,LCSC
+USB_B_Micro,J1,10118194-0001LF,C132563
+10uF,"C3,C5",C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,C13585
+0.1uF,"C1,C2,C6",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C14858
+1uF,"C10,C11,C12,C13,C16,C17,C8,C9",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C15849
+0.47uF,C4,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C19666
+30pF,"C14,C15",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C22397
+150k,R8,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C22807
+1.5k,R9,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C22843
+1M,R10,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C22935
+2.2,R6,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C22939
+22,"R4,R5",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C23345
+2.2uF,C7,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C23630
+100k,R7,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25803
+12MHz,Y1,Crystal_SMD_5032-4Pin_5.0x3.2mm,C390782
+2.2k,R1,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C4190
